@@ -8,7 +8,7 @@
 
 * 效果图：
 
- ![](C:\Users\Administrator\Desktop\QQ图片20181019143558.png)
+ ![](F:\Person\demo\TranslateDemo\TranslateDemo\Images\QQ图片20181019143558.png)
 
 * 可以直接在框中 输入你需要翻译的中文 不用点击翻译按钮， 当然如果你想点击也可以
 
