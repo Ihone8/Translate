@@ -1,0 +1,10 @@
+F:\Person\demo\TranslateDemo\TranslateDemo\bin\Debug\TranslateDemo.exe.config
+F:\Person\demo\TranslateDemo\TranslateDemo\bin\Debug\TranslateDemo.exe
+F:\Person\demo\TranslateDemo\TranslateDemo\bin\Debug\TranslateDemo.pdb
+F:\Person\demo\TranslateDemo\TranslateDemo\obj\Debug\TranslateDemo.csprojAssemblyReference.cache
+F:\Person\demo\TranslateDemo\TranslateDemo\obj\Debug\TranslateDemo.frmtranslate.resources
+F:\Person\demo\TranslateDemo\TranslateDemo\obj\Debug\TranslateDemo.Properties.Resources.resources
+F:\Person\demo\TranslateDemo\TranslateDemo\obj\Debug\TranslateDemo.csproj.GenerateResource.cache
+F:\Person\demo\TranslateDemo\TranslateDemo\obj\Debug\TranslateDemo.csproj.CoreCompileInputs.cache
+F:\Person\demo\TranslateDemo\TranslateDemo\obj\Debug\TranslateDemo.exe
+F:\Person\demo\TranslateDemo\TranslateDemo\obj\Debug\TranslateDemo.pdb
